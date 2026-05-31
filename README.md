@@ -4,6 +4,8 @@
 
 Meu nome é Renato Antonio Petrocino, tenho 53 anos e sou natural do São Paulo ,  Atualmente, estudando ou cursando Desenvolvimento front-end  Sou bastante interessado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[renatoaprendizdev ](https://www.youtube.com/@devteorico)".
 
+ALUNO DEVCLUB
+
 <p align="left">
     <a href="https://www.youtube.com/@devteorico">
         <img 
